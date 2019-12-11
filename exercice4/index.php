@@ -1,7 +1,7 @@
 <?php
 $exerciseNb = 4;
 include '../header.php';
-$magnitude = 9;
+$magnitude = 6;
 switch($magnitude) {
   case 0:
     $result = 'Pas de soucis';
